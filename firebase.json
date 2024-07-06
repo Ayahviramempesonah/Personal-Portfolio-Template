@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "coder-tamvan-portofolio90",
+    
     "public": "public",
     "ignore": [
       "firebase.json",
